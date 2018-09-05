@@ -1,4 +1,4 @@
-# ptcl-bandwithcontrol-autoipchange
+# PTCL Band Widthcontrol Auto-IP Change
 
 Just a little script to automatically change the IP in the PTCL bandwidth control to make your IP free of any modem bandwidth control
 
