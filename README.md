@@ -4,7 +4,7 @@ Just a little script to automatically change the IP in the PTCL bandwidth contro
 
 IMPORTANT: Please change the password in the script to your own password
 
-The bandwidth table should contain two created options no more than that for this to work name them anything something like shown in the picture
+The bandwidth table should contain two created options no more than that for this to work name them anything something. It should look the picture below. Dont worry about the fields they can be anything
 
 <p align="center"><img src="https://github.com/zarar7576/ptcl-bandwithcontrol-autoipchange/blob/master/pics/bandwidth_conrol_screen.png" /></p>
 
