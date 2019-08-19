@@ -1,3 +1,5 @@
+#You can use this simple script to check if you have a valid internet connection it plays a sound when it finds a connecion
+
 from urllib.request import urlopen
 from playsound import playsound
 import time
